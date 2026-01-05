@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: A Data Warehouse project focused on centralizing fragmented business data into a scalable architecture.<br><br>🌱 I’m currently learning: Advanced Cloud Platforms and Neural Collaborative Filtering for personalization systems.<br><br>🤔 I’m looking for help with: Scaling computer vision models for low-end hardware deployment.<br><br>💬 Ask me about: Python, SQL, Exploratory Data Analysis (EDA), and Object Detection using YOLO.<br><br>📫 How to reach me: waghsaurav07@gmail.com.<br><br>😄 Pronouns: He/Him.<br><br>⚡ Fun fact: I built a real-time object detection system that can detect safety equipment in live video feeds! I’m currently working on<br>      <br>       Projects: GDP Analysis: Developed automated scripts to extract and clean global economic indicators from multiple API sources.<br><br>       Recommender System: Designed a hybrid recommendation engine using Matrix Factorization and Neural Collaborative Filtering.<br><br>       Real-Time Object Detection: Built a YOLO-based system optimized for high inference speed on low-end hardware.
 
 
